@@ -17,6 +17,11 @@
 - **مصحف** سهل الاستخدام لقراءة القرآن الكريم
 - عرض **التفسير** مباشرة أثناء قراءة القرآن
 
+## ⚙️ التثبيت والتشغيل
+
+يمكنك تحميل أحدث إصدار من التطبيق عن طريق <a href="https://usenoor.app/" target="_blank">الموقع الرسمي</a>.</br>
+أو من خلال صفحة من صفحة [Releases](https://github.com/haith2m/noor-app/releases) الخاصة بالمشروع.
+
 ## 📸 صور من التطبيق
 
 ### 🏠 الواجهة الرئيسية
@@ -84,7 +89,7 @@
 <div style="display: flex; gap: 10px; flex-direction: column; max-height: 600px; overflow-y: auto;">
   <div style="display: flex; gap: 10px;">
     <kbd>
-      <!-- <img width="1276" height="912" alt="image" src="https://github.com/user-attachments/assets/37653bda-71ef-4fd8-bfba-3472ef04f7a2" /> -->
+      <img width="1276" height="912" alt="image" src="https://github.com/user-attachments/assets/37653bda-71ef-4fd8-bfba-3472ef04f7a2" />
       <img width="1440" height="932" alt="image" src="https://github.com/user-attachments/assets/9733d70f-7fb6-4cce-a6d9-13932b7a0acc" />
     </kbd>
   </div>
@@ -100,14 +105,6 @@
     </kbd>
   </div>
 </div>
-
----
-
-## ⚙️ التثبيت والتشغيل
-
-يمكنك تحميل أحدث إصدار من التطبيق عن طريق [الموقع الرسمي](https://www.usenoor.app/)
-أو من خلال صفحة من صفحة [Releases](https://github.com/haith2m/noor-app/releases) الخاصة بالمشروع.
-
 ## 🛠️ مبني باستخدام
 
 - [ElectronJS](https://www.electronjs.org/)
